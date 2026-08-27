@@ -1,7 +1,7 @@
 # Hi there, I'm Abdullah Tuğra Zorbilmez 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/atugrazorbilmez">
+  <a href="https://www.linkedin.com/in/abdullah-tu%C4%9Fra-zorbilmez-70b4b0334/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@example.com">
