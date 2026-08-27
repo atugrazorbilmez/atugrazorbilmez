@@ -1,66 +1,143 @@
 <div align="center">
 
-# Hi there, I'm Abdullah Tuğra Zorbilmez 👋
-### Mobile Application Developer & Computer Engineer
+# Merhaba, Ben Abdullah Tuğra Zorbilmez 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-tu%C4%9Fra-zorbilmez-70b4b0334/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-![Views](https://komarev.com/ghpvc/?username=atugrazorbilmez&color=0284c7&style=for-the-badge&label=VIEWS)
+### 📱 Mobile Application Developer & Computer Engineer
 
-*Crafting smooth mobile experiences from clean architecture to native integrations.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0DE&center=true&vCenter=true&width=600&lines=Flutter+%26+Kotlin+ile+Mobil+Uygulama+Geliştiriyorum;Clean+Architecture+%7C+MVVM+%7C+Riverpod;Firebase+%26+REST+API+Entegrasyonları;Tokat+Gaziosmanpaşa+Üniversitesi+2026+Mezunu" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-tuğra-zorbilmez-70b4b0334/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atugrazorbilmez)
+[![Location](https://img.shields.io/badge/İstanbul-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 Hakkımda
 
-- 🎓 **Background:** Computer Engineer & Mobile Application Developer
-- 📱 **Specialization:** Cross-platform mobile development with **Flutter & Dart**, along with native **Kotlin/Java & Android SDK**
-- 🏗️ **Architecture & State:** Clean Architecture, Riverpod, MVVM, ValueNotifier
-- 💾 **Data & Backend:** Local-first storage (Realm, SQLite), Firebase, REST APIs
-- ⚡ **Core Focus:** Building high-performance, responsive, and maintainable applications
+- 🎓 **Bilgisayar Mühendisliği** mezunu — Tokat Gaziosmanpaşa Üniversitesi (2026)
+- 📱 **Flutter & Kotlin** ile modern, ölçeklenebilir mobil uygulamalar geliştiriyorum
+- 🏗️ **Clean Architecture**, **MVVM** ve state management çözümleri (**Riverpod**, `ValueNotifier`, `ChangeNotifier`) konusunda deneyimliyim
+- 🔥 **Firebase** ve **REST API** entegrasyonlarıyla uçtan uca mobil çözümler üretiyorum
+- 🌱 Şu an native Android servisleri ve arka plan işlemleri üzerine derinleşiyorum
+- 💬 Yeni projeler ve iş birlikleri için bana ulaşabilirsiniz!
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 🛠️ Tech Stack
 
-**Languages & Mobile**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<div align="center">
+
+**Diller**
+
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-**Backend, Cloud & Databases**  
+**Mobil & SDK**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+**Mimari & State Management**
+
+![Riverpod](https://img.shields.io/badge/Riverpod-2196F3?style=for-the-badge&logo=flutter&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-6E4AFF?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00A388?style=for-the-badge)
+
+**Veritabanı & Backend**
+
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Tools & Environment**  
+**Araçlar**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-### 💻 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 📞 **CallApp** | Caller identification, call logging, and background sync system. | `Flutter` `Realm` `Android Services` |
-| 🤝 **Dayanışma** | Community solidarity platform with real-time chats and channels. | `Flutter` `Firebase` `Riverpod` |
-| ⏱️ **Pomodoro Plus** | Productivity suite with cycle tracking and local analytics. | `Flutter` `Clean Architecture` |
-| 🎯 **MatchUp** | Social matchmaking platform based on shared interests. | `Flutter` `REST API` |
+</div>
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 Öne Çıkan Projeler
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atugrazorbilmez&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atugrazorbilmez&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>📞 CallApp — Caller ID App</h4>
+      <p>Flutter, Realm veritabanı, arka plan servisleri ve native Android entegrasyonu ile geliştirilen arayan kimliği/çağrı kayıt uygulaması.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white"/> <img src="https://img.shields.io/badge/Native_Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h4>🤝 Dayanışma — Sosyal Yardımlaşma Platformu</h4>
+      <p>Kullanıcı doğrulama, topluluk sohbet kanalları ve kategori bazlı eşleşmeler içeren sosyal yardımlaşma platformu.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🍅 Pomodoro Plus</h4>
+      <p>Özel çalışma/mola döngüleri ve yerel analitik takibi sunan üretkenlik uygulaması.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Local_Analytics-6E4AFF?style=flat-square"/>
+    </td>
+    <td width="50%">
+      <h4>💫 MatchUp</h4>
+      <p>İlgi alanlarına göre dinamik eşleşme ve sosyal etkileşim sunan mobil uygulama.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h4>📝 Notepad & Haritalarla KPSS</h4>
+      <p>Yerel veri depolamalı yardımcı mobil araçlar.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=atugrazorbilmez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atugrazorbilmez&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atugrazorbilmez&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atugrazorbilmez&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+### 📫 Bana Ulaşın
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn'de_Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-tuğra-zorbilmez-70b4b0334/)
+[![GitHub](https://img.shields.io/badge/Projelerime_Göz_Atın-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atugrazorbilmez)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=atugrazorbilmez&label=Profil%20Görüntülenme&color=blueviolet&style=flat" alt="profile views" />
+
+</div>
+
+---
+
+<div align="center">
+  <sub>💡 Flutter & mobil geliştirme dünyasında sürekli öğrenmeye ve üretmeye devam ediyorum.</sub>
+</div>
