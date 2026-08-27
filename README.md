@@ -130,10 +130,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn'de_Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-tuğra-zorbilmez-70b4b0334/)
 [![GitHub](https://img.shields.io/badge/Projelerime_Göz_Atın-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atugrazorbilmez)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=atugrazorbilmez&label=Profil%20Görüntülenme&color=blueviolet&style=flat" alt="profile views" />
-
 </div>
 
 ---
