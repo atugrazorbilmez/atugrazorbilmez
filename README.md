@@ -1,67 +1,38 @@
-# Hi there, I'm Abdullah Tuğra Zorbilmez 👋
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdullah-tu%C4%9Fra-zorbilmez-70b4b0334/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <!-- Dynamic Typing Header -->
+  <a href="https://github.com/atugrazorbilmez">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there,+I'm+Abdullah+Tu%C4%9Fra+Zorbilmez+%F0%9F%91%8B;Computer+Engineer+%F0%9F%8E%93;Mobile+Application+Developer+%F0%9F%93%B1;Flutter+%E2%80%A2+Kotlin+%E2%80%A2+Android+%E2%80%A2+Java;Building+Performant+%26+Scalable+Apps+%E2%9A%A1" alt="Typing SVG" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
----
+  <p align="center">
+    <b>Crafting smooth mobile experiences from clean architecture to native integrations.</b>
+  </p>
 
-### 👨‍💻 About Me
+  <!-- Social & Contact Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/abdullah-tu%C4%9Fra-zorbilmez-70b4b0334/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:abdullah66tugra@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=atugrazorbilmez&color=0284c7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
 
-I am a **Computer Engineer** and **Mobile Application Developer** passionate about crafting performant, scalable, and intuitive mobile experiences. I specialize in building cross-platform applications with clean architecture and reactive state management.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=header" width="100%" />
 
-- 🔭 Currently developing high-performance mobile applications with **Flutter & Dart**
-- 🧠 Deeply interested in **Clean Architecture**, **State Management**, and **Native Android Integrations**
-- 💬 Ask me about **Flutter, Riverpod, Local Databases (Realm/SQLite), and REST APIs**
-- ⚡ Fun fact: Always looking for ways to optimize build times and UI rendering performance
+</div>
 
----
+### 🚀 About Me
 
-### 🛠️ Tech Stack & Tools
-
-**Mobile & Frontend**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**Backend & Database**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Tools & Workflow**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **CallApp** | Caller ID and call logging utility with background processing. | `Flutter` `Realm` `Android Services` |
-| **Dayanışma** | Community solidarity and real-time chat platform. | `Flutter` `Firebase` `State Management` |
-| **Pomodoro Plus** | Productivity and task tracking tool with custom analytics. | `Flutter` `Clean Architecture` |
-| **MatchUp** | Interactive matching and social activity mobile application. | `Flutter` `REST API` |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atugrazorbilmez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atugrazorbilmez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+```kotlin
+class Developer {
+    val name = "Abdullah Tuğra Zorbilmez"
+    val role = "Mobile Application Developer & Computer Engineer"
+    val coreStack = listOf("Flutter", "Dart", "Kotlin", "Java", "Android SDK")
+    val architecture = listOf("Clean Architecture", "Riverpod", "MVVM", "State Management")
+    val focus = "High-performance apps, local-first storage, native integrations"
+    
+    fun getStatus(): String = "Always engineering, optimizing, and building."
+}
